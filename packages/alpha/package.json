@@ -1,5 +1,5 @@
 {
-  "name": "@my-scope/alpha",
+  "name": "@ytz/alpha",
   "version": "0.1.2",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"

@@ -1,5 +1,5 @@
 {
-  "name": "@my-scope/beta",
+  "name": "@ytz/beta",
   "version": "0.1.2",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"

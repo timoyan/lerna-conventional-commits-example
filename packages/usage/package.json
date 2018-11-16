@@ -1,9 +1,9 @@
 {
-  "name": "@my-scope/usage",
+  "name": "@ytz/usage",
   "version": "0.2.0",
   "dependencies": {
-    "@my-scope/alpha": "^0.1.2",
-    "@my-scope/beta": "^0.1.2"
+    "@ytz/alpha": "^0.1.2",
+    "@ytz/beta": "^0.1.2"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"

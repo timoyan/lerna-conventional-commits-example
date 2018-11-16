@@ -1,6 +1,6 @@
 {
   "name": "@my-scope/usage",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "dependencies": {
     "@my-scope/alpha": "^0.1.2",
     "@my-scope/beta": "^0.1.2"

@@ -2,6 +2,6 @@
   "name": "@my-scope/alpha",
   "version": "0.1.1",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org "
+    "registry": "https://registry.npmjs.org"
   }
 }

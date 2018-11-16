@@ -2,10 +2,10 @@
   "name": "@my-scope/usage",
   "version": "0.1.1",
   "dependencies": {
-    "@my-scope/alpha": "^0.1.1",
-    "@my-scope/beta": "^0.1.1"
+    "@my-scope/alpha": "0.1.1",
+    "@my-scope/beta": "0.1.1"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org "
+    "registry": "https://registry.npmjs.org"
   }
 }

@@ -1,7 +1,6 @@
 {
   "name": "lerna-conventional-commits-example",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "commitmsg": "commitlint -e $GIT_PARAMS"
   },

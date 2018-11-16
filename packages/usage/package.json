@@ -4,5 +4,8 @@
   "dependencies": {
     "@my-scope/alpha": "0.1.0",
     "@my-scope/beta": "0.1.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org "
   }
 }
